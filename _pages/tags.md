@@ -1,6 +1,6 @@
 ---
 layout: page
-title: FАрхив тэгов
+title: Архив тэгов
 description: "An archive of posts sorted by tag."
 permalink: /tags.html
 ---
