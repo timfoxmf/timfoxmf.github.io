@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Мои планы на 5 лет"
-image: https://farm5.staticflickr.com/4140/4939863887_84705982fd_b.jpg
+image: https://images.unsplash.com/photo-1485871800663-71856dc09ec4?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&dl=n_3chndlivs-greg-rakozy.jpg
 categories:
   - Я
   - Планирование
