@@ -2,7 +2,7 @@
 title: Тимофей Чулков
 description: Спекулянт, финансист, data manning
 url: https://timfoxmf.github.io/
-logo: 4963833.jpeg                                       # Site logo
+logo: logo.jpeg                                       # Site logo
 locale: en_US
 
 # Left Block Images
@@ -29,13 +29,13 @@ sass:
 #google-analytics: UA-XXXXX-Y
 
 # Social Links
-#email:             email
+email:             timofey@chulkov.ru.com
 #google.plus:        username
-twitter:            username
+#twitter:            
 #facebook:           username
-github:             username
+github:             timofxmf
 stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          https://www.linkedin.com/in/timofey-chulkov-3b3a65112?trk=hp-identity-name
 #xing:              username
 #instagram:          username
 #lastfm:            username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
